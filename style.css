@@ -1,0 +1,43 @@
+.head{
+	text-transform:uppercase;
+	color: #10E3EE;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+h3{
+	color: white;
+	text-decoration: none;
+}
+body{
+	background-image: url(img.jpg);
+	background-size: 100%;
+	background-attachment: fixed
+}
+center{
+	font-size: 32px; 
+	position: absolute;
+	right: 20%;
+	width: 60%;
+	color: white;
+	
+}
+.button{
+	margin: auto;
+	width: 80%;
+	font-size: 15px;
+	color: white;
+	text-transform:uppercase;
+	padding: 10px;
+}
+.map {
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+	padding: 5px;
+	width: 33%;
+}
+ol {
+	font-size: 25px;
+}
